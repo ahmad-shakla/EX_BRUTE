@@ -69,5 +69,5 @@ while x != 5 :
     else :
         x = 5
         print ("incorrect command\n")
-        user = input ("ssf >")
+        user = input ("EX-BRUTE >")
         x = 4
