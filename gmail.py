@@ -2,7 +2,7 @@ import smtplib
 
 
 
-gmail = smtplib.SMTP("smtp.gmail.com", 465)
+gmail = smtplib.SMTP("smtp.gmail.com", 587)
 gmail.ehlo()
 gmail.starttls()
 
