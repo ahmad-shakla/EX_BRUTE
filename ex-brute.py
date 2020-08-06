@@ -64,6 +64,8 @@ while x != 5 :
     elif user == "15":
          import yahoomailplus
 
+    elif user == "0":
+         print ("Thnaks for using the script")
 
 
     else :
